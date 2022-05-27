@@ -25,7 +25,7 @@ Read the **[Installation guide](https://docs.flarum.org/install)** to get starte
 ## Instalação local, host compartilhado etc...
 
 ## 1
-composer require flarum/flarum pasta-do-projeto
+composer create project flarum/flarum pasta-do-projeto
 ## 2
 certifique~se de criar um banco de dados para o seu projeto ( estamos partindo de um ponto onde você tem PHP e Mysql instalado) xampp, lampp etc...
 ## 3
