@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.7.0](https://github.com/flarum/flarum/compare/v1.6.0...v1.7.0)
+
+No changes.
+
+## [1.6.0](https://github.com/flarum/flarum/compare/v1.5.0...v1.6.0)
+
+No changes.
+
+## [1.5.0](https://github.com/flarum/flarum/compare/v1.4.0...v1.5.0)
+
+### Changed
+
+- Update copyright [#85]
+- Link logo to official website [#84]
+
+## [1.4.0](https://github.com/flarum/flarum/compare/v1.3.0...v1.4.0)
+
+No changes.
+
 ## [1.3.0](https://github.com/flarum/flarum/compare/v1.2.0...v1.3.0)
 
 No changes.
